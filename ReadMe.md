@@ -17,7 +17,7 @@ This is a web application where you can write any notes to suit your task. Each 
 1. Clone repo</br> 2. Install `express npm` by running `npm i express` in your terminal.</br>  4. Still in your terminal, run `node server.js` then type in `localhost:"PORT#"' where "PORT#" is the assigned port for your server.</br> Note: Make sure you have node.js installed in you machine, otherwise head to https://nodejs.org/en/download/ and install it first.
 
 ### Usage
-Deployed URL: n/a  
+Deployed URL: https://note-ing-hill.herokuapp.com/  
 Alternativerly, click on the link above so you can use the app without installing it.   
  
 Watch the demo:  
