@@ -28,7 +28,7 @@ Copyright (c) 2012 Rommel Jay San Jose (GitHub profile name: arjaesj)
 Licensed under the ISC license.
 
 ### Contributing
-Please feel free to for & clone the repo and add/refactor the source code. Create a pull request for my review @ https://github.com/arjaesj/team-profile-generator/compare and I'll review your code at the earliest chance I get. Thank you in advance for your contribution!
+Please feel free to for & clone the repo and add/refactor the source code. Create a pull request for my review @ https://github.com/arjaesj/note-taker/compare and I'll review your code at the earliest chance I get. Thank you in advance for your contribution!
 
 ### Test
 n/a
